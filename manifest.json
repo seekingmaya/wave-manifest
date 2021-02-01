@@ -1,0 +1,26 @@
+{
+	"name": "WaveCanvas",
+	"description": "Click to load the next.",
+	"orientation":"portrait",
+	"lang":"en-US",
+	"theme_color":"#ffffff",
+	"background_color":"#ffb347",
+	"display":"standalone",
+	"start_url": "https://wave-canvas.webflow.io/",
+	"icons": [
+		{
+			"src": "https://uploads-ssl.webflow.com/img/favicon.ico",
+			"sizes": "32x32",
+			"type": "image/ico"
+		},
+		{
+			"src": "https://uploads-ssl.webflow.com/5f986f7f8ea48c68048f3a36/6008ae5f944332ab0dfb1a49_icon192.png",
+			"sizes": "192x192",
+			"type": "image/ico"
+		},
+		{
+			"src": "https://uploads-ssl.webflow.com/5f986f7f8ea48c68048f3a36/60072dfac4ed9a44d7329f6d_App%20Icon%20256.png",
+			"sizes": "256x256",
+			"type": "image/png"
+		}]
+}
